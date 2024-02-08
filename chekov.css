@@ -1,0 +1,53 @@
+/* chekov.css */
+
+/* Speech class */
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+/* Direction class */
+.direction {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f5f5f5; /* Light gray background color */
+}
+
+/* Hover effect on direction */
+.direction:hover {
+    background-color: skyblue; /* Lighter gray background color */
+    color: white; /* White text color */
+}
+
+/* Character name classes */
+.fedya {
+    font-size: 14px; /* Adjust font size if necessary */
+    font-weight: bold; /* Make character names bold */
+    color: #009688; /* Teal color for Fedya */
+}
+
+.nazarovna {
+    font-size: 14px; /* Adjust font size if necessary */
+    font-weight: bold; /* Make character names bold */
+    color: #ff5733; /* Red color for Nazarovna */
+}
+
+.savva {
+    font-size: 14px; /* Adjust font size if necessary */
+    font-weight: bold; /* Make character names bold */
+    color: #800080; /* Purple color for Savva */
+}
+
+.tihon {
+    font-size: 14px; /* Adjust font size if necessary */
+    font-weight: bold; /* Make character names bold */
+    color: #000080; /* Navy color for Tihon */
+}
+
+.bortsov {
+    font-size: 14px; /* Adjust font size if necessary */
+    font-weight: bold; /* Make character names bold */
+    color: #800000; /* Maroon color for Bortsov */
+}
