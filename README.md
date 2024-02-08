@@ -4,3 +4,5 @@ A practice assignment for HTML with CSS
 
 
 hosted at https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment4-Deeann01/settings/pages
+
+https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment4-Deeann01/theater.html
