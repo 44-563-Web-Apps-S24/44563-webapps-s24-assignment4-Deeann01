@@ -1,53 +1,50 @@
-/* chekov.css */
 
-/* Speech class */
 .speech {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: black;
 }
 
-/* Direction class */
 .direction {
     font-family: Times New Roman, serif;
     font-size: 14px;
     color: black;
-    background-color: #f5f5f5; /* Light gray background color */
+    background-color: lightseagreen
 }
 
-/* Hover effect on direction */
+
 .direction:hover {
-    background-color: skyblue; /* Lighter gray background color */
-    color: white; /* White text color */
+    background-color: skyblue; 
+    color: white; 
 }
 
-/* Character name classes */
+
 .fedya {
-    font-size: 14px; /* Adjust font size if necessary */
-    font-weight: bold; /* Make character names bold */
-    color: #009688; /* Teal color for Fedya */
+    font-size: 14px; 
+    font-weight: bold; 
+    color: teal
 }
 
 .nazarovna {
-    font-size: 14px; /* Adjust font size if necessary */
-    font-weight: bold; /* Make character names bold */
-    color: #ff5733; /* Red color for Nazarovna */
+    font-size: 14px; 
+    font-weight: bold; 
+    color: red
 }
 
 .savva {
-    font-size: 14px; /* Adjust font size if necessary */
-    font-weight: bold; /* Make character names bold */
-    color: #800080; /* Purple color for Savva */
+    font-size: 14px; 
+    font-weight: bold; 
+    color: #800080; 
 }
 
 .tihon {
-    font-size: 14px; /* Adjust font size if necessary */
-    font-weight: bold; /* Make character names bold */
-    color: #000080; /* Navy color for Tihon */
+    font-size: 14px; 
+    font-weight: bold; 
+    color: blue
 }
 
 .bortsov {
-    font-size: 14px; /* Adjust font size if necessary */
-    font-weight: bold; /* Make character names bold */
-    color: brown  ; /* Maroon color for Bortsov */
+    font-size: 14px; 
+    font-weight: bold; 
+    color: brown  ; 
 }
